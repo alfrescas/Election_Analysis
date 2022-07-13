@@ -43,7 +43,7 @@ Then from there I needed to create dictionaries and lists of the data to start t
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/107371010/178830854-a9bd16af-b015-4a49-9da8-48be06a1bd97.png">
 
 
-Now is when the calculations needed to be conducted in order to calculate the requiered information, some examples of the calculations is shown below:
+Some examples of the calculations is shown below:
 
 ### Calculations for County outcomes:
 
